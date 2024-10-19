@@ -1,1 +1,1 @@
-# kickskart
+# KicksKart
